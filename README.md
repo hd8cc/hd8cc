@@ -4,7 +4,7 @@
 
 **Current Projects**
 -  [discord-bot](https://github.com/hd8cc/discord-bot) — Multipurpose bot (PRIVATE)
-- 📦 [utils-build](https://github.com/hd8cc/utils-build) — Personal JS / PYTHON utilities (PRIVATE)
+-  [utils-build](https://github.com/hd8cc/utils-build) — Personal JS / PYTHON utilities (PRIVATE)
 -  [webhook-sender](https://github.com/hd8cc/webhook) — work-in-progress dev portfolio (PUBLIC)
 
 
